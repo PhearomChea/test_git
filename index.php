@@ -9,4 +9,9 @@
 <body>
     <h1>I'm cheiipok</h1>
 </body>
-</html>
+</html><?php
+require 'utils/url.php';
+require 'database/database.php';
+require 'router.php';
+
+
